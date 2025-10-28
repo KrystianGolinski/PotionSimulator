@@ -1,0 +1,10 @@
+NoName 930 65
+patrick 850 42
+ldias2 600 64
+test 400 42
+krystian 350 20
+wads 250 17
+player22pld 160 25
+ldias2 150 33
+demo23 140 34
+NoName 110 29
